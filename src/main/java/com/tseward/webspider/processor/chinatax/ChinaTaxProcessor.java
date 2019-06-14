@@ -128,7 +128,7 @@ public class ChinaTaxProcessor implements PageProcessor {
                 detailUrls.remove(detailUrl);
             }
             Date publishTime = DateUtil.parseToDate(publishTimeList.get(i - errorDataCount));
-//            DingTalkUtil.sendDing(title, detailUrl,
+//            DingTalkUtil.sendDingTalkRobot(title, detailUrl,
 //                    "发布时间：" + myFmt.format(publishTime),FINANCE);
         }
 
