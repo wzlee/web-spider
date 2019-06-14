@@ -1,6 +1,6 @@
 package com.tseward.webspider.processor.chinatax;
 
-import com.tseward.webspider.pipeline.RepositoryPipeline;
+import com.tseward.webspider.processor.pipeline.RepositoryPipeline;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
