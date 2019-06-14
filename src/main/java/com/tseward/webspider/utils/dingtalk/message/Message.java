@@ -1,4 +1,4 @@
-package com.tseward.webspider.utils.dingtalk;
+package com.tseward.webspider.utils.dingtalk.message;
 
 
 public interface Message {

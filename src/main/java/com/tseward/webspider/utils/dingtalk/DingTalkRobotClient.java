@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.tseward.webspider.utils.dingtalk.message.Message;
 import com.tseward.webspider.utils.dingtalk.message.TextMessage;
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
