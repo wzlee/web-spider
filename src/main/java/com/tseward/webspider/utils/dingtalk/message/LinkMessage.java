@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * Description: link消息类型
  *
- * @author Zehua Wang tseward@cathay-ins.com.cn
+ * @author tseward
  * @version 1.0
  * @date 12, 06 2019
  */
